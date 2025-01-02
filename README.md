@@ -30,3 +30,5 @@
   <a href="mailto:santos.guilherme.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/GuilhermeSanguinete" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="67b367af-b27e-4a6e-bea7-5a5ec9040d99" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
