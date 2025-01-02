@@ -5,7 +5,6 @@
 ### Sobre Mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Senac.
-- 💻 Apaixonado por tecnologia e desenvolvimento de software.
 - 🤝 Experiência em trabalho em equipe.
 - 🚀 Buscando constantemente aprender e evoluir.
 
