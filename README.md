@@ -12,7 +12,7 @@
 ### Tecnologias
 
 #### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,java,ts,sass,figma,git,github,postman&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,java,c#,sass,figma,git,github,postman&perline=8)](#)
 
 #### Aprendendo
 [![Learning](https://skillicons.dev/icons?i=aws,linux,java&perline=8)](#)
