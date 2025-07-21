@@ -1,32 +1,36 @@
-![](https://komarev.com/ghpvc/?username=GuilhermeSanguinete&color=006bed)  
+## 👨‍💻 Guilherme Sanguinete | Desenvolvedor Fullstack Júnior
 
-## Seja Bem-vindo ao meu Perfil
+### 🧾 Sobre Mim
 
-### Sobre Mim
+🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Senac.  
+💻 Desenvolvedor Fullstack com foco em aplicações web usando React, Node.js, Java e MySQL.  
+🚀 Sempre em busca de evolução técnica e aprendizado contínuo.  
+🤝 Valorizo o trabalho em equipe, boas práticas de desenvolvimento e versionamento de código. 
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Senac.
-- 🤝 Experiência em trabalho em equipe.
-- 🚀 Buscando constantemente aprender e evoluir.
+### 🎯 Objetivo
 
-### Tecnologias
+Atuar como Desenvolvedor Júnior contribuindo em projetos web com tecnologias modernas de front-end e back-end, agregando valor através de código limpo, colaboração em equipe e crescimento contínuo.
 
-#### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,java,c#,sass,figma,git,github,postman&perline=8)](#)
+### 🚀 Tecnologias que domino
 
-#### Aprendendo
-[![Learning](https://skillicons.dev/icons?i=aws,linux,java&perline=8)](#)
+**Front-end:**  
+![HTML5](https://skillicons.dev/icons?i=html,css,scss,js,react)
 
-### Estatísticas do GitHub
+**Back-end:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs,java,mysql)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSanguinete&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanguinete&layout=compact&langs_count=7&theme=algolia&hide_border=true" />
-</div>
+**Ferramentas:**  
+![Git](https://skillicons.dev/icons?i=git,github,postman,figma)
 
-### Contatos
+**Aprendendo:**  
+![Aprendendo](https://skillicons.dev/icons?i=aws,linux)
 
-<div>
-  <a href="https://www.linkedin.com/in/guilherme-sanguinete-157389198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:santos.guilherme.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/GuilhermeSanguinete" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+### 📫 Contato
+
+Entre em contato comigo:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sanguinete-157389198/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.guilherme.dev@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeSanguinete)
+
+📢 Estou aberto a oportunidades de desenvolvimento júnior ou trainee.
