@@ -1,36 +1,64 @@
-## 👨‍💻 Guilherme Sanguinete | Desenvolvedor Fullstack Júnior
+<h1 align="center">👨‍💻 Guilherme Sanguinete</h1>
+<h3 align="center">Desenvolvedor Fullstack Júnior</h3>
 
-### 🧾 Sobre Mim
+<p align="center">
+  <a href="https://github.com/GuilhermeSanguinete">
+    <img src="https://komarev.com/ghpvc/?username=GuilhermeSanguinete&color=0e75b6&style=flat" alt="Visualizações do perfil"/>
+  </a>
+</p>
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Senac.  
-💻 Desenvolvedor Fullstack com foco em aplicações web usando React, Node.js, Java e MySQL.  
-🚀 Sempre em busca de evolução técnica e aprendizado contínuo.  
-🤝 Valorizo o trabalho em equipe, boas práticas de desenvolvimento e versionamento de código. 
+---
 
-### 🎯 Objetivo
+## 🧾 Sobre Mim  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Senac.  
+💻 Desenvolvedor Fullstack com foco em aplicações web usando **React.js**, **Node.js**, **Java** e **MySQL**.  
+🚀 Autodidata, apaixonado por tecnologia e com forte raciocínio lógico.  
+🤝 Valorizo boas práticas de desenvolvimento, trabalho em equipe e versionamento com Git.
 
-Atuar como Desenvolvedor Júnior contribuindo em projetos web com tecnologias modernas de front-end e back-end, agregando valor através de código limpo, colaboração em equipe e crescimento contínuo.
+---
 
-### 🚀 Tecnologias que domino
+## 🎯 Objetivo  
+Atuar como **Desenvolvedor Júnior** em projetos web, entregando soluções modernas e evoluindo continuamente em back-end e DevOps.
 
-**Front-end:**  
-![HTML5](https://skillicons.dev/icons?i=html,css,scss,js,react)
+---
 
-**Back-end:**  
-![Node.js](https://skillicons.dev/icons?i=nodejs,java,mysql)
+## 🚀 Tecnologias
 
-**Ferramentas:**  
-![Git](https://skillicons.dev/icons?i=git,github,postman,figma)
+### 🖥️ Front-end  
+- HTML5, CSS3, JavaScript (ES6+)  
+- React.js, SCSS  
+- Consumo de APIs REST, responsividade
 
-**Aprendendo:**  
-![Aprendendo](https://skillicons.dev/icons?i=aws,linux)
+### 🛠️ Back-end  
+- Node.js, Express.js  
+- Java (básico), MySQL  
+- JWT, MVC
 
-### 📫 Contato
+### 🧰 Ferramentas e Outros  
+- Git & GitHub  
+- Postman  
+- Figma  
+- Docker (em estudo), Jest (testes automatizados)
 
-Entre em contato comigo:
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sanguinete-157389198/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.guilherme.dev@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeSanguinete)
+## 📊 GitHub Stats
 
-📢 Estou aberto a oportunidades de desenvolvimento júnior ou trainee.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSanguinete&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSanguinete&theme=radical" width="49%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSanguinete&layout=compact&theme=radical" width="49%" />
+</div>
+
+---
+
+## 📫 Contato  
+📧 **Email:** santos.guilherme.dev@gmail.com  
+🔗 [**LinkedIn**](https://linkedin.com/in/guilherme-sanguinete-157389198)  
+💻 [**GitHub**](https://github.com/GuilhermeSanguinete)  
+
+---
+
+## 📢 Estou disponível para  
+Vagas de **Desenvolvedor Júnior** ou **Trainee** nas áreas de **Fullstack, Front-end ou Back-end**.
